@@ -10,8 +10,6 @@ The repository is organized by topics such as Arrays, Linked Lists, Trees, etc. 
 Each problem has its own dedicated file which includes:
 - The problem statement
 - My solution
-- Time and space complexity of the solution
-
 ## Progress
 
 I'll be updating my progress here regularly.
