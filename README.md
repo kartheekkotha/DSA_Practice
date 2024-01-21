@@ -4,6 +4,7 @@ This repository is dedicated to my daily practice of Data Structures and Algorit
 ## Structure
 
 The repository is organized by topics such as Arrays, Linked Lists, Trees, etc. Each topic has its own folder containing the problems I've solved.
+The Problems are solved mostly from the Leetcode platform
 
 ## Problems
 
